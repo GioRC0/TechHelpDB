@@ -66,5 +66,28 @@
       "id": 4,
       "incomePerWeekend": [56.70,45.80,12.90,13.40,100.90,70.20]
     }
+  ],
+  "items":[
+    {
+      "id": 1,
+      "technicalId": 1,
+      "item": "Screens motoG20",
+      "amount": 10,
+      "price": 20.00
+    },
+    {
+      "id": 2,
+      "technicalId": 1,
+      "item": "Battery Samsung A22",
+      "amount": 2,
+      "price": 45.00
+    },
+    {
+      "id": 3,
+      "technicalId": 1,
+      "item": "Panel Samsung A22",
+      "amount": 5,
+      "price": 30.00
+    }
   ]
 }
