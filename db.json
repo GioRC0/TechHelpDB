@@ -89,5 +89,37 @@
         }
       ]
     }
+  ],
+  "Memberships": [
+    {
+      "id": 0,
+      "title": "Plan Free",
+      "type": 1,
+      "cost": "Free",
+      "description": "Try our basic features and enjoy the greats"
+    },
+    {
+      "id": 1,
+      "title": "Plan Platinium",
+      "type": 0,
+      "cost": "S/.80.99",
+      "description": "Get access to our dashboard and our increase in recommendations"
+    }
+  ],
+  "Subscriptions": [
+    {
+      "id": 1,
+      "technical_id": 0,
+      "start_date": "",
+      "final_date": "",
+      "membership_id": 2
+    },
+    {
+      "id": 2,
+      "technical_id": 2,
+      "start_date": "11/09/2023",
+      "final_date": "13/10/2023",
+      "membership_id": 0
+    }
   ]
 }
